@@ -1,5 +1,4 @@
+# "# Banking Demo Project - T4"
 
-"# Banking Demo Project" 
-=======
 # BANKING-PLATFORM
 
